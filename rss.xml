@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MagicsMarvel]]></title>
+        <description><![CDATA[MagicsMarvel]]></description>
+        <link>https://thegrid.ai/magicsmarvel/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 21:55:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/magicsmarvel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit.]]></title>
+            <description><![CDATA[<article><h1>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</h1><p>testing 1, 2</p></article>]]></description>
+            <link>https://thegrid.ai/magicsmarvel/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit/index.html</link>
+            <guid isPermaLink="false">bb355a2b-477a-4466-a88f-8a5ef16c0c6e</guid>
+            <pubDate>Thu, 10 Dec 2015 21:54:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/magicsmarvel/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">73d7aaa9-e5e6-4e40-8a0d-f03f00480632</guid>
+            <pubDate>Thu, 10 Dec 2015 21:54:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
